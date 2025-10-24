@@ -60,13 +60,12 @@ This bot:
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://asyncpraw.readthedocs.io/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="AsyncPRAW" width="40" height="40"/></a>
-  <a href="https://docs.python.org/3/library/asyncio.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Asyncio" width="40" height="40"/></a>
-  <a href="https://docs.python.org/3/library/concurrent.futures.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ThreadPoolExecutor" width="40" height="40"/></a>
-  <a href="https://pypi.org/project/plyer/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/notification.png" alt="Desktop Notifications" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/AsyncPRAW-FF4500?style=for-the-badge&logo=python&logoColor=white" alt="AsyncPRAW" />
+  <img src="https://img.shields.io/badge/Asyncio-00599C?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio" />
+  <img src="https://img.shields.io/badge/ThreadPoolExecutor-FF7F50?style=for-the-badge&logo=python&logoColor=white" alt="ThreadPoolExecutor" />
 </p>
 
 ---
