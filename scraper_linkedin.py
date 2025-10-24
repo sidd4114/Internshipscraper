@@ -1,3 +1,4 @@
+#scraper_linkedin.py
 import time
 from selenium.webdriver.common.by import By
 from utils import get_fast_headless_chrome, is_relevant
